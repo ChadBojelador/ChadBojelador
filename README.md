@@ -16,13 +16,6 @@
 </p>
 
 ---
-
-## 🔥 Contribution Graph
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChadBojelador&theme=tokyonight" width="850"/>
-</p>
-
----
 ## 💻 Tech Stack
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
