@@ -1,14 +1,12 @@
-# Hi, I'm Chad Bojelador 👋
---
-## 🚀 About Me
-🧠 **I think in if-else statements.**
+# Hi, I'm Chad Bojelador 👋 
+**I think in if-else statements;)**
 
 ## 📊 GitHub Stats
 <p style="display: flex; gap: 20px; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=ChadBojelador&show_icons=true&theme=tokyonight" height="150" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChadBojelador&theme=tokyonight" height="150" alt="GitHub Streak"/>
 </p>
---
+
 
 ## 💻 Tech Stack
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
@@ -23,13 +21,13 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
---
+
 ## ☕ Let's Connect!
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat&logo=github&logoColor=white)](https://web-portfolio-ghouk55qd-chadbojeladors-projects.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chad-bojelador-126b53307/)
 [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:chadbojelador9@gmail.com)
 
---
+
 <p>
     "Never stop coding. Never stop growing."
 </p>
