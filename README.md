@@ -1,9 +1,5 @@
 <h1 align="center">Hi, I'm Chad Laurence Bojelador 👋</h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjZlaWplcXRxYWs3Y2huc3oxNm0xa3g1czB3dGt2ZWh2N3VjcXQ1cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Gf3AUz3eBNbTW/giphy.gif" width="200"/>
-</p>
-
 ---
 
 ## 🚀 About Me
@@ -28,30 +24,27 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" width="450"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ChadBojelador&show_icons=true&theme=radical" width="450"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChadBojelador&theme=radical" width="450"/>
 </p>
 
 ---
 
 ## 🔥 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=radical" width="850"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChadBojelador&theme=radical" width="850"/>
 </p>
 
 ---
 
 ## ☕ Let's Connect!
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat&logo=github&logoColor=white)](https://your-portfolio-link.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link/)
-[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat&logo=github&logoColor=white)](https://web-portfolio-ghouk55qd-chadbojeladors-projects.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chad-bojelador-126b53307/)
+[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:chadbojelador9@gmail.com)
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
-</p>
 
-<p align="center">
-    🚀 Keep coding, keep learning.
+<p>
+    "Never stop coding. Never stop growing."
 </p>
