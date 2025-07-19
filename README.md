@@ -24,15 +24,15 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChadBojelador&show_icons=true&theme=radical" width="450"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChadBojelador&theme=radical" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ChadBojelador&show_icons=true&theme=tokyonight" width="450"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChadBojelador&theme=tokyonight" width="450"/>
 </p>
 
 ---
 
 ## 🔥 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChadBojelador&theme=radical" width="850"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChadBojelador&theme=tokyonight" width="850"/>
 </p>
 
 ---
