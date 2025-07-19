@@ -10,9 +10,9 @@
 
 
 ## 📊 GitHub Stats
-<p display = "flex">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChadBojelador&show_icons=true&theme=tokyonight" width="450"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChadBojelador&theme=tokyonight" width="450"/>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=ChadBojelador&show_icons=true&theme=tokyonight" width="300"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChadBojelador&theme=tokyonight" width="300"/>
 </p>
 
 ---
