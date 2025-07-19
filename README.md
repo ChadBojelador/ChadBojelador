@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Chad Laurence Bojelador 👋</h1>
+<h1>Hi, I'm Chad Laurence Bojelador 👋</h1>
 
 ---
 
@@ -7,6 +7,22 @@
 
 ---
 
+
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ChadBojelador&show_icons=true&theme=tokyonight" width="450"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChadBojelador&theme=tokyonight" width="450"/>
+</p>
+
+---
+
+## 🔥 Contribution Graph
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChadBojelador&theme=tokyonight" width="850"/>
+</p>
+
+---
 ## 💻 Tech Stack
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
@@ -21,22 +37,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChadBojelador&show_icons=true&theme=tokyonight" width="450"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChadBojelador&theme=tokyonight" width="450"/>
-</p>
-
----
-
-## 🔥 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChadBojelador&theme=tokyonight" width="850"/>
-</p>
-
----
-
 ## ☕ Let's Connect!
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat&logo=github&logoColor=white)](https://web-portfolio-ghouk55qd-chadbojeladors-projects.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chad-bojelador-126b53307/)
