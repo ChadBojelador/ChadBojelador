@@ -1,57 +1,49 @@
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=line&color=gradient&height=120&section=header&text=Chad%20Bojelador&fontSize=32&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-# Hi, I'm Chad Bojelador 👋
+**AI Engineer** | Student at Batangas State University
 
-### Full-Stack Developer | Problem Solver | Lifelong Learner
+I like building things from scratch — writing my own pipelines instead of leaning on pre-built abstractions — because it's the fastest way to actually understand how something works under the hood.
 
-*I think in if-else statements ;)*
+<img src="https://capsule-render.vercel.app/api?type=line&color=gradient&height=2&section=header" />
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://web-portfolio-ghouk55qd-chadbojeladors-projects.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chad-bojelador-126b53307/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chadbojelador9@gmail.com)
 
-</div>
+### 💡 What I'm interested in
 
----
+- Keeping up with the latest LLM research and turning it into working systems
+- Retrieval-Augmented Generation — from chunking strategies to graph-aware retrieval
+- Agentic architectures — tool use, memory, and multi-step orchestration
+- The intersection of LLMs and traditional software engineering (APIs, system design)
+- CSS & frontend design — making interfaces look intentional instead of plain
 
-## 🚀 About Me
+### 🧰 Tech Stack
 
-I'm a passionate full-stack developer who loves building web applications that make a difference. When I'm not coding, I'm learning new technologies and contributing to the developer community.
+**AI Engineering**
 
-- 🔭 Currently working on full-stack web applications
-- 🌱 Always learning and exploring new technologies
-- 💡 Open to collaborating on innovative projects
-- ⚡ Fun fact: I debug with console.log() like it's my superpower
+`Python` · `PyTorch` · `Hugging Face Transformers` · `LangChain` · `Claude API` · `OpenAI API` · `Retrieval-Augmented Generation (RAG)` · `Vector Databases (Chroma, Pinecone)` · `Embeddings (Voyage AI, OpenAI)` · `Prompt Engineering & Evaluation` · `Agentic Systems & Tool Use` · `Fine-tuning & LoRA` · `Model Serving (vLLM)`
 
----
+**Full Stack (MERN)**
 
-## 💻 Tech Stack
+`MongoDB` · `Express.js` · `React` · `Node.js` · `JavaScript` · `TypeScript` · `Tailwind CSS` · `REST APIs`
 
-### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![EJS](https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black)
+**Tools & Platforms**
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+`Git` · `GitHub` · `Obsidian` · `Google APIs` · `Docker`
 
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+### 🌱 Currently learning
 
-### Tools & Design
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+- Transformer internals — attention mechanisms, positional encoding, and KV caching from first principles
+- Advanced RAG techniques — hybrid search, re-ranking, query rewriting, and graph-aware retrieval
+- LLM evaluation — building eval harnesses and benchmarking retrieval/generation quality beyond vibes
+- Model serving & inference optimization — quantization, batching, and tools like vLLM
+- Agentic system design — multi-step tool use, memory, and orchestration patterns
 
----
+### 📫 Reach me
 
-### 💭 *"Never stop coding. Never stop growing."*
+- GitHub: [@your-username](https://github.com/your-username)
+- Email: your.email@example.com
 
-![Profile Views](https://komarev.com/ghpvc/?username=ChadBojelador&color=blueviolet&style=flat-square)
+<img src="https://capsule-render.vercel.app/api?type=line&color=gradient&height=2&section=header" />
 
-⭐️ From [ChadBojelador](https://github.com/ChadBojelador)
-
-</div>
+<sub>This README is a work in progress — updated as new projects ship.</sub>
