@@ -1,12 +1,12 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=line&color=gradient&height=120&section=header&text=Chad%20Bojelador&fontSize=32&fontColor=ffffff&animation=fadeIn" />
-</p>
+# Hi, I'm Chad Bojelador 👋
 
-Student at Batangas State University
+**Student at Batangas State University**
 
 I like building things from scratch — writing my own pipelines instead of leaning on pre-built abstractions — because it's the fastest way to actually understand how something works under the hood.
 
-<img src="https://capsule-render.vercel.app/api?type=line&color=gradient&height=2&section=header" />
+<img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="80" align="right" />
+
+---
 
 
 ### 💡 What I'm interested in
@@ -41,9 +41,7 @@ I like building things from scratch — writing my own pipelines instead of lean
 
 ### 📫 Reach me
 
-- GitHub: [@your-username](https://github.com/your-username)
-- Email: your.email@example.com
+- Email: chadbojelador9@gmail.com
 
-<img src="https://capsule-render.vercel.app/api?type=line&color=gradient&height=2&section=header" />
+---
 
-<sub>This README is a work in progress — updated as new projects ship.</sub>
