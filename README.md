@@ -1,7 +1,5 @@
 # Hi, I'm Chad Bojelador 👋
 
-**Student at Batangas State University**
-
 I like building things from scratch — writing my own pipelines instead of leaning on pre-built abstractions — because it's the fastest way to actually understand how something works under the hood.
 
 <img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="80" align="right" />
