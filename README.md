@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=line&color=gradient&height=120&section=header&text=Chad%20Bojelador&fontSize=32&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-**AI Engineer** | Student at Batangas State University
+Student at Batangas State University
 
 I like building things from scratch — writing my own pipelines instead of leaning on pre-built abstractions — because it's the fastest way to actually understand how something works under the hood.
 
