@@ -31,14 +31,6 @@ I like building things from scratch — writing my own pipelines instead of lean
 
 `Git` · `GitHub` · `Obsidian` · `Google APIs` · `Docker`
 
-### 🌱 Currently learning
-
-- Transformer internals — attention mechanisms, positional encoding, and KV caching from first principles
-- Advanced RAG techniques — hybrid search, re-ranking, query rewriting, and graph-aware retrieval
-- LLM evaluation — building eval harnesses and benchmarking retrieval/generation quality beyond vibes
-- Model serving & inference optimization — quantization, batching, and tools like vLLM
-- Agentic system design — multi-step tool use, memory, and orchestration patterns
-
 ### 📫 Reach me
 
 - Email: chadbojelador9@gmail.com
